@@ -4,6 +4,8 @@ This project is a modern, responsive landing page for a SaaS application, inspir
 
 ## Demo
 You can view the live demo here.
+![Screenshot 2024-10-15 202408](https://github.com/user-attachments/assets/41ac2562-ca84-418f-a73b-1b0dff23b7a9)
+
 
 ## Features
 - **Responsive Design**: The landing page is fully responsive and optimized for both desktop and mobile devices.
