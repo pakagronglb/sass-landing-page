@@ -1,4 +1,4 @@
-# SaaS App Landing Page
+# SaaS App Landing Page -- work in progress
 
 This project is a modern, responsive landing page for a SaaS application, inspired by the JS Mastery tutorial and the Xora App Design. The app is built to showcase SaaS product features, testimonials, pricing, and a contact form.
 
